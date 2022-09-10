@@ -36,10 +36,10 @@ How many columns in the dataset have missing values?
 
 ### Question 6
 
-Find the median value of "Engine Cylinders" column in the dataset.
-Next, calculate the most frequent value of the same "Engine Cylinders".
-Use the fillna method to fill the missing values in "Engine Cylinders" with the most frequent value from the previous step.
-Now, calculate the median value of "Engine Cylinders" once again.
+* Find the median value of "Engine Cylinders" column in the dataset.
+* Next, calculate the most frequent value of the same "Engine Cylinders".
+* Use the fillna method to fill the missing values in "Engine Cylinders" with the most frequent value from the previous step.
+* Now, calculate the median value of "Engine Cylinders" once again.
 
 Has it changed?
 
