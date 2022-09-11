@@ -45,7 +45,7 @@ Has it changed?
 
 > Hint: refer to existing mode and median functions to complete the task.
 
-
+* Yes
 ### Question 7
 
 * Select all the "Lotus" cars from the dataset.
@@ -60,7 +60,5 @@ Has it changed?
 
 > **Note**: You just implemented linear regression. We'll talk about it in the next lesson.
 
-- -0.0723
-- 4.5949
-- 31.6537
-- 63.5643
+
+* 4.5949
