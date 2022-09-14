@@ -31,10 +31,8 @@ Select only them.
 ### Question 1
 
 Find a feature with missing values. How many missing values does it have?
-- 207
-- 307
-- 408
-- 508
+
+* 207
 
 ### Question 2
 
