@@ -37,10 +37,8 @@ Find a feature with missing values. How many missing values does it have?
 ### Question 2
 
 What's the median (50% percentile) for variable 'population'?
-- 1133
-- 1122
-- 1166
-- 1188
+
+* 1166
 
 ### Split the data
 
