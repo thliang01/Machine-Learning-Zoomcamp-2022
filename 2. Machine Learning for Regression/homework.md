@@ -57,11 +57,7 @@ What's the median (50% percentile) for variable 'population'?
 * Round the RMSE scores to 2 decimal digits using `round(score, 2)`
 * Which option gives better RMSE?
 
-Options:
-- With 0
-- With mean
-- With median
-- Both are equally good
+* Both are equally good
 
 ### Question 4
 
@@ -74,11 +70,7 @@ Options:
 
 If there are multiple options, select the smallest `r`.
 
-Options:
-- 0
-- 0.000001
-- 0.001
-- 0.0001
+* 0
 
 ### Question 5 
 
@@ -95,11 +87,9 @@ Options:
 > If it's high, the values are different. 
 > If standard deviation of scores is low, then our model is *stable*.
 
-Options:
-- 0.16
-- 0.00005
-- 0.005
-- 0.15555
+
+* 0.005
+
 
 ### Question 6
 
@@ -108,11 +98,7 @@ Options:
 * Fill the missing values with 0 and train a model with `r=0.001`. 
 * What's the RMSE on the test dataset?
 
-Options:
-- 0.35
-- 0.135
-- 0.450
-- 0.245
+* 0.35
 
 ## Submit the results
 - Submit your results here: https://forms.gle/WCVb4KMNsgbkuJtr6
